@@ -1,0 +1,4 @@
+dogukankurnaz.com
+Açık Portlar:
+Port 21 Açık
+Port 53 Açık
