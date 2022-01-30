@@ -7,10 +7,10 @@ target = socket.gethostbyname(site)
 print("-"*50)
 print("Tarama baslatildi: " + target)
 print("-"*50)
-1024
+
 try:
     x = []
-    for port in range(1,54):
+    for port in range(1,1024):
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         socket.setdefaulttimeout(1)
         result = s.connect_ex((target, port))
