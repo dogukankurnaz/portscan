@@ -1,7 +1,7 @@
 ### Description
 
 Portscan script showing open ports can be run on windows and linux.
-*Saves open ports in .txt file.
+* Saves open ports in .txt file.
 
 ### Requirements
 
